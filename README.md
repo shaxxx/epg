@@ -1,2 +1,2 @@
-# epg
-Epg Data
+# XMLTV
+XMLTV files
