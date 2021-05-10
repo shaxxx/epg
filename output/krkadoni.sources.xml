@@ -5,9 +5,9 @@
 		</channel>
 	</mappings>
 	<sourcecat sourcecatname="Krkadoni XMLTV">
-		<source type="gen_xmltv" channels="krkadoni.channels.xml">
+		<source type="gen_xmltv" nocheck="1" channels="krkadoni.channels.xml">
 			<description>ExYu Channels By Nuno</description>
-			<url>https://github.com/shaxxx/epg/raw/main/output/nuno.zip</url>
+			<url>https://github.com/shaxxx/epg/raw/main/output/nuno.xml.gz</url>
 		</source>
 	</sourcecat>
 </sources>
